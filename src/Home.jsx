@@ -44,7 +44,6 @@ const Home = () => {
 			<Link to={urlGoogleOAuth} className="read-the-docs">
 				Đăng Nhập
 			</Link>
-<<<<<<< HEAD
 			<br />
 			<br />
 			<video controls width={500}>
@@ -53,7 +52,6 @@ const Home = () => {
 					type="video/mp4"
 				/>
 			</video>
-=======
 			<div>
 				<h3>Video Streaming</h3>
 				<video width="500" controls>
@@ -70,7 +68,6 @@ const Home = () => {
 					/>
 				</MediaPlayer>
 			</div> */}
->>>>>>> b071f856e52993671ae43a24df72c19fbf600f12
 		</>
 	);
 };
